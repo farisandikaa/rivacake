@@ -1,25 +1,50 @@
-#  RivaCake – Web-Based Cake Sales Platform
+# 🍰 Riva Cake Website
 
-**Tunashonda** is a web-based application developed for motorcycle sales management, specifically tailored for the business needs of Tunashonda. Built using the **CodeIgniter 4 (CI4)** framework, the platform aims to streamline inventory, order, and customer management processes.
+Riva Cake Website is a modern and responsive platform designed to showcase products, share business information, and enable customers to explore and purchase cakes online.  
+The project focuses on delivering a delightful user experience while maintaining efficient backend management.
 
-## 🚀 Features
+---
 
-- Product catalog with categorization and detailed descriptions  
-- Admin dashboard for inventory and user management  
-- Secure authentication and role-based access  
-- Real-time order tracking  
-- Responsive UI design for desktop and mobile
+## ✨ Features
 
-## 🛠️ Tech Stack
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices.
+- **Product Catalog** – Browse detailed descriptions, images, and prices.
+- **Business Information** – Share company story, contact details, and location.
+- **Admin Panel** – Manage products, orders, and content from a secure backend.
+- **Authentication** – Login/logout system for customers and administrators.
 
-- **Backend:** PHP (Laravel), MySQL  
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+---
 
+## 🛠 Tech Stack
 
-## 📄 License
+- **Frontend:** HTML, CSS, JavaScript 
+- **Backend:** Laravel 
+- **Database:** MySQL
+- **Authentication:** Laravel Breeze 
+- **Other Tools:** Git, Composer, NPM
 
-This project is a **private/proprietary software** and is not licensed for distribution or reuse.  
-All rights reserved © Faris Andika Putra, 2025.  
-Unauthorized copying, modification, or distribution of any part of this project is strictly prohibited.
+---
 
-See the [LICENSE](./LICENSE) file for full details.
+## 🚀 Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/farisandikaa/rivacake.git
+   cd rivacake
+2. **Install Dependencies**
+   ```bash
+   composer install
+   npm install
+   npm run dev
+3. **Setup Environment**
+   ```bash
+   cp .env.example .env
+   php artisan key:generate
+4. **Migrate Database**
+   ```bash
+   php artisan migrate
+6. **Run Application**
+   ```bash
+   php artisan serve
+   
+
