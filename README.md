@@ -54,5 +54,11 @@ All rights reserved © Faris Andika Putra, 2025.
 Unauthorized copying, modification, or distribution of any part of this project is strictly prohibited.
 
 See the [LICENSE](./LICENSE) file for full details.
+
+## 📧 Contact
+
+For inquiries, custom orders, or business collaborations:
+Email: farisandika2111@gmail.com.com
+Phone: +62-896-9347-7040
    
 
