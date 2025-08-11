@@ -49,10 +49,7 @@ The project focuses on delivering a delightful user experience while maintaining
 
 ## 📄 License
 
-This project is a **private/proprietary software** and is not licensed for distribution or reuse.  
 All rights reserved © Faris Andika Putra, 2025.  
-Unauthorized copying, modification, or distribution of any part of this project is strictly prohibited.
-
 See the [LICENSE](./LICENSE) file for full details.
 
 ## 📧 Contact
