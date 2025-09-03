@@ -11,16 +11,12 @@ return new class extends Migration
      */
     public function up()
 {
-    Schema::table('shop_items', function (Blueprint $table) {
-        $table->string('category')->nullable();
-    });
+    
 }
 
 public function down()
 {
-    Schema::table('shop_items', function (Blueprint $table) {
-        $table->dropColumn('category');
-    });
+   
 }
 
 };
